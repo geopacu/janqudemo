@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: snipcart/netlify-cms-snipcart
+  repo: geopacu/janqudemo
   branch: master 
 
 media_folder: "img/uploads"
